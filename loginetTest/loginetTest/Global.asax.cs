@@ -17,7 +17,7 @@ namespace loginetTest
     {
         protected void Application_Start()
         {
-            //Database.SetInitializer<ApiDbContext>(new DbInitialiizer());
+            Database.SetInitializer<ApiDbContext>(new DbInitialiizer());
             //ApiDbContext.Instance.Database.Initialize(true);
 
             AreaRegistration.RegisterAllAreas();
