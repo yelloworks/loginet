@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginetTest", "loginetTest\loginetTest.csproj", "{378DF6BE-30B0-4706-8528-B137D2B26AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378DF6BE-30B0-4706-8528-B137D2B26AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378DF6BE-30B0-4706-8528-B137D2B26AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378DF6BE-30B0-4706-8528-B137D2B26AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378DF6BE-30B0-4706-8528-B137D2B26AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD494A59-EE3F-44BC-8269-9915D90A84A2}
+	EndGlobalSection
+EndGlobal
